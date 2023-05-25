@@ -13,11 +13,17 @@ Theoretical explanations and practice notebooks about Natural Language Processin
 
 1.2  NLP Machine Learning - Imbalanced Multiclass Classification : targeting one class for  
                             CountVector and TF-IDF;
-                                - Naive Bayes
-                                - Log Reg
-                                - SVM
-                                - KNN
-                                - Random Forest
-                                - Adaboost
+                            
+                                * Naive Bayes
+                                
+                                * Log Reg
+                                
+                                * SVM
+                                
+                                * KNN
+                                
+                                * Random Forest
+                                
+                                * Adaboost
                                 
 1.3 
