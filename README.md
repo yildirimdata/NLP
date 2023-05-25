@@ -10,3 +10,14 @@ Theoretical explanations and practice notebooks about Natural Language Processin
 1.1 Data Cleaning and Vectorization
     - User defined functions for data cleaning for sent analysis and classification 
     - Classification practice
+
+1.2  NLP Machine Learning - Imbalanced Multiclass Classification : targeting one class for  
+                            CountVector and TF-IDF;
+                                - Naive Bayes
+                                - Log Reg
+                                - SVM
+                                - KNN
+                                - Random Forest
+                                - Adaboost
+                                
+1.3 
