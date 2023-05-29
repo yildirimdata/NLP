@@ -1,0 +1,22 @@
+
+1 NLP Fundamentals
+1.1 NLP_ML_Data_Cleaning_vectorization_logic
+
+1.2 PRACTICE: NLP Machine Learning - Imbalanced Multiclass Classification : sadece tek sinifa odaklanarak - 
+                            CountVector ve TF-IDF ile ayri ayri;
+                                - Naive Bayes
+                                - Log Reg
+                                - SVM
+                                - KNN
+                                - Random Forest
+                                - Adaboost
+                                
+2 NLP -  DEEP Learning - Theory - Word2Vec and Glove Practice with news and wikipedia data
+
+3 NLP - RNN with Deep Learning
+            - vanishing and exploding gradients
+            - Short-term memory
+            - Long-short term memory (LSTM) : forget gate, input gate, cell gate (memory), output gate
+            - Gated Recurrent Units (GRU) : update gate, reset gate
+
+3.1 NLP - DL -RNN - GRU - Binary Classification - e-commerce website review classification and sentiment analysis
