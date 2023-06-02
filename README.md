@@ -53,3 +53,4 @@ Theoretical explanations and practice notebooks about Natural Language Processin
 4.1 PRACTICE: NLP_Fine_Tuning_For_BERT_models_with_TPU: 
               
               * Imbalanced e-commerce website Classification-Sentiment Analysis
+              * Multilingual analysis (Turkish)
