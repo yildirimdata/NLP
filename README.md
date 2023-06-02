@@ -29,13 +29,22 @@ Theoretical explanations and practice notebooks about Natural Language Processin
 2 PRACTICE - NLP -  DEEP Learning - Theory - Word2Vec and Glove Practice with news and wikipedia data
 
 3 Theory - NLP - RNN with Deep Learning;
-            - vanishing and exploding gradients
-            - Short-term memory
-            - Long-short term memory (LSTM) : forget gate, input gate, cell gate (memory), output gate
-            - Gated Recurrent Units (GRU) : update gate, reset gate
+            
+            * vanishing and exploding gradients
+            * Short-term memory
+            * Long-short term memory (LSTM) : forget gate, input gate, cell gate (memory), output gate
+            * Gated Recurrent Units (GRU) : update gate, reset gate
 
-3.1 PRACTICE - NLP with DL -RNN - GRU - IMBALANCED Binary Classification - e-commerce website: review classification and sentiment analysis
+3.1 PRACTICE - NLP with DL 
+              * RNN 
+              * GRU 
+              * IMBALANCED Binary Classification 
+              * e-commerce website: review classification and sentiment analysis
 
-4 Theory - NLP-BERT: Transformers - Attention - Wordpiece
+4 Theory - NLP-BERT: 
+            * Transformers 
+            * Attention 
+            * Wordpiece
 
-4.1 PRACTICE: NLP_Fine_Tuning_For_BERT_models_with_TPU: Imbalanced e-commerce website Classification-Sentiment Analysis
+4.1 PRACTICE: NLP_Fine_Tuning_For_BERT_models_with_TPU: 
+              * Imbalanced e-commerce website Classification-Sentiment Analysis
