@@ -1,9 +1,8 @@
 
-
 1 NLP Fundamentals
 1.1 NLP_ML_Data_Cleaning_vectorization_logic
 
-1.2 PRACTICE: NLP with Machine Learning - Imbalanced Multiclass Classification : sadece tek sinifa odaklanarak - 
+1.2 PRACTICE: NLP with Machine Learning - Airline Tweets Classification-Sent An - Imbalanced Multiclass Classification : sadece tek sinifa odaklanarak - 
                             CountVector ve TF-IDF ile ayri ayri;
                                 - Naive Bayes
                                 - Log Reg
@@ -24,4 +23,31 @@
 
 4 Theory - NLP-BERT: Transformers - Attention - Wordpiece
 
-4.1 PRACTICE: NLP_Fine_Tuning_For_BERT_models_with_TPU: Classification-Sentiment Analysis
+4.1 PRACTICE: NLP_Fine_Tuning_For_BERT_models_with_TPU: e-commerce website Classification-Sentiment Analysis
+
+5.1 CHAT_GPT Codex :
+        - openai api and general information
+        - SQL
+        - Python no Natural Language
+        - Translate programminng languages
+        - Python bug fixer
+        - Code and function explanations
+        - Javascript to python
+        - write a python docstring
+        - edit codes
+        - count the tokens for chatgpt 3.5 turbo
+        
+5.2 CHATGPT Examples
+        - Questions and answers
+        - Grammar correction
+        - Summarize for a 2nd grader
+        - English to other languages
+        - Sentiment classifier
+        - Extract contact information or customer complaints
+        - Classification
+        - Analogy maker
+        
+5.3 NLP - OPENAI Classification : 
+        - Women cloth reviews
+        - chatbot practice
+        - Name entity recognition: NER practice
