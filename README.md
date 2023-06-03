@@ -54,3 +54,34 @@ Theoretical explanations and practice notebooks about Natural Language Processin
               
               * Imbalanced e-commerce website Classification-Sentiment Analysis
               * Multilingual analysis (Turkish)
+              
+              
+5.1 CHAT_GPT Codex :
+        
+        * openai api and general information
+        * SQL
+        * Python no Natural Language
+        * Translate programminng languages
+        * Python bug fixer
+        * Code and function explanations
+        * Javascript to python
+        * write a python docstring
+        * edit codes
+        * count the tokens for chatgpt 3.5 turbo
+        
+5.2 CHATGPT Examples
+        
+        * Questions and answers
+        * Grammar correction
+        * Summarize for a 2nd grader
+        * English to other languages
+        * Sentiment classifier
+        * Extract contact information or customer complaints
+        * Classification
+        * Analogy maker
+        
+5.3 NLP - OPENAI Classification : 
+        
+        * Women cloth reviews
+        * chatbot practice
+        * Name entity recognition: NER practice
