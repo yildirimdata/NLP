@@ -25,6 +25,19 @@
 
 4.1 PRACTICE: NLP_Fine_Tuning_For_BERT_models_with_TPU: e-commerce website Classification-Sentiment Analysis
 
+4.2 MAIN PROJECT: Women clothes reviews Binary Classification
+        
+        - EDA
+        - Data Preprocessing
+        - Logistic Regression
+        - Naive Bayes
+        - Support Vector Machine
+        - Random Forest
+        - AdaBoost
+        - Deep Learning Model
+        - BERT Model
+        - Model Comparison
+
 5.1 CHAT_GPT Codex :
         - openai api and general information
         - SQL
