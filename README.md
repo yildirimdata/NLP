@@ -55,7 +55,18 @@ Theoretical explanations and practice notebooks about Natural Language Processin
               
               * Imbalanced e-commerce website Classification-Sentiment Analysis
               * Multilingual analysis (Turkish)
-              
+
+4.2 MAIN PROJECT: Women clothes reviews Binary Classification
+       
+        * Data Preprocessing
+        * Logistic Regression
+        * Naive Bayes
+        * Support Vector Machine
+        * Random Forest
+        * AdaBoost
+        * Deep Learning Model
+        * BERT Model
+        * Model Comparison
               
 5.1 CHAT_GPT Codex :
         
