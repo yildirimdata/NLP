@@ -85,6 +85,10 @@ Theoretical explanations and practice notebooks about Natural Language Processin
                 * sentence similarity
         * Computer vision
                 * Image captioning - image to text
+                
+4.4 NLP Transformers - Huggingface:
+        
+        * text to video
               
 5.1 CHAT_GPT Codex :
         
