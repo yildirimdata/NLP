@@ -67,6 +67,24 @@ Theoretical explanations and practice notebooks about Natural Language Processin
         * Deep Learning Model
         * BERT Model
         * Model Comparison
+        
+4.3 PRACTICE-NLP Tranformers - Huggingface:
+        
+        * Sentiment analysis
+        * Zero-shot classification
+        * Predict the next token
+        * Named entity revognition (token classification)
+        * Question Answering
+        * Summarization
+        * Translation
+        * How to use a pre-trained model in Hugginface
+                * Question answering
+                * Tarnslation
+                * Zero shot classification
+                * Fill mask
+                * sentence similarity
+        * Computer vision
+                * Image captioning - image to text
               
 5.1 CHAT_GPT Codex :
         
